@@ -14,16 +14,12 @@
 - Shopify
 - WooCommerce
 
-## Currently Learning
-
-- React
-- Next.js
 
 ## Portfolio
 
-https://yourportfolio.com
+[https://yourportfolio.com](https://charming-sunburst-025023.netlify.app/)
 
 ## Contact
 
-LinkedIn
-Email
+LinkedIn - www.linkedin.com/in/jiya-mukheja-58b6a0278
+Email - jiyamukheja359@gmail.com
